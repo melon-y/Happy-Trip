@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Happy-Trip
 旅途信息
 =======
@@ -32,8 +30,4 @@ npm run dev
 ```sh
 npm run build
 ```
->>>>>>> 395c943 (第一次提交项目)
-=======
-# Happy-Trip
-旅途信息
->>>>>>> 8b44078fe55f44f29b91fd71080e3fc921018f85
+
